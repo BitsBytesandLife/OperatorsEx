@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\bin\Debug\netcoreapp3.1\OperatorsEx.exe
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\bin\Debug\netcoreapp3.1\OperatorsEx.deps.json
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\bin\Debug\netcoreapp3.1\OperatorsEx.runtimeconfig.json
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\bin\Debug\netcoreapp3.1\OperatorsEx.runtimeconfig.dev.json
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\bin\Debug\netcoreapp3.1\OperatorsEx.dll
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\bin\Debug\netcoreapp3.1\OperatorsEx.pdb
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.AssemblyInfo.cs
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.dll
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.pdb
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.genruntimeconfig.cache
