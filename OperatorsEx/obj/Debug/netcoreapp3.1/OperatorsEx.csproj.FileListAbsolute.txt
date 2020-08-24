@@ -10,3 +10,4 @@ C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\Opera
 C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.dll
 C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.pdb
 C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.genruntimeconfig.cache
+C:\Users\User\source\repos\OperatorsEx\OperatorsEx\obj\Debug\netcoreapp3.1\OperatorsEx.csprojAssemblyReference.cache
